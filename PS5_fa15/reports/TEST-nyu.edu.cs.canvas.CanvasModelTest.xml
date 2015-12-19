@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="Suru" name="nyu.edu.cs.canvas.CanvasModelTest" skipped="0" tests="1" time="0.1" timestamp="2015-12-11T21:48:41">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Windows 8.1" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_11\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_11\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_11\jre\classes" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\apache-ant-1.9.6" />
+    <property name="java.runtime.version" value="1.8.0_11-b12" />
+    <property name="user.name" value="Suruchi" />
+    <property name="build.dir" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\build" />
+    <property name="testsrc.dir" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\testsrc" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_11\jre\bin" />
+    <property name="reports.dir" value="reports" />
+    <property name="ant.project.default-target" value="run" />
+    <property name="ant.project.name" value="Canvas" />
+    <property name="java.version" value="1.8.0_11" />
+    <property name="user.timezone" value="America/New_York" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_11\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="ant.file.Canvas" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\build.xml" />
+    <property name="build.classes.dir" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\classes" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_11\jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\build.xml" />
+    <property name="os.version" value="6.3" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.11-b03" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\apache-ant-1.9.6\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="sun.stdout.encoding" value="cp437" />
+    <property name="user.script" value="" />
+    <property name="build.jar.dir" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\build\jar" />
+    <property name="user.home" value="C:\Users\Suruchi" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_11\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.8.0_11\bin;C:\apache-ant-1.9.6\bin;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Program Files (x86)\SMLNJ\bin\;C:\Program Files (x86)\scala\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 &amp; MySQL Utilities 1.5.4 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5.4 &amp; MySQL Utilities 1.5.4 1.5\Doctrine extensions for PHP\;C:\Program Files\Apache Software Foundation\maven\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin;C:\GNAT\2014\bin;C:\cygwin64\bin;C:\Program Files (x86)\Google\google_appengine\;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner nyu.edu.cs.canvas.CanvasModelTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,E:\NYU\PQS_Sem3\trunk\PS5_fa15\reports\TEST-nyu.edu.cs.canvas.CanvasModelTest.xml crashfile=E:\NYU\PQS_Sem3\trunk\PS5_fa15\junitvmwatcher3639589489246921886.properties propsfile=E:\NYU\PQS_Sem3\trunk\PS5_fa15\junit5388064111048755151.properties" />
+    <property name="java.class.path" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\classes;E:\NYU\PQS_Sem3\trunk\PS5_fa15\build\jar\Canvas.jar;E:\NYU\PQS_Sem3\trunk\PS5_fa15\lib\junit.jar;C:\apache-tomcat-8.0.21\lib\servlet-api.jar;C:\apache-ant-1.9.6\lib\ant-launcher.jar;C:\apache-ant-1.9.6\lib\ant.jar;C:\apache-ant-1.9.6\lib\ant-junit.jar;C:\apache-ant-1.9.6\lib\ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="main.app" value="nyu.edu.cs.canvas.Canvas" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="java.io.tmpdir" value="C:\Users\Suruchi\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="jar.path" value="build/jar/Canvas.jar" />
+    <property name="ant.file.type.Canvas" value="file" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_11\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\apache-ant-1.9.6\lib\ant.jar" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="sun.stderr.encoding" value="cp437" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="src.dir" value="E:\NYU\PQS_Sem3\trunk\PS5_fa15\src" />
+    <property name="ant.project.invoked-targets" value="test" />
+  </properties>
+  <testcase classname="nyu.edu.cs.canvas.CanvasModelTest" name="initializationError" time="0.024">
+    <error message="org/hamcrest/SelfDescribing" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:760)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:455)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:367)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:360)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+Caused by: java.lang.ClassNotFoundException: org.hamcrest.SelfDescribing
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:372)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:360)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
